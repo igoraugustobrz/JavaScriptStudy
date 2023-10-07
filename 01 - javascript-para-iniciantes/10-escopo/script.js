@@ -9,7 +9,7 @@
   console.log(cor, marca, portas);
 }
 
-// Como corrigir o erro abaixo?
+// Como corrigir o erro abaixo? Obs: Erro corrigido por Igor Augusto
 const dois = 2;
 
 function somarDois(x) {
@@ -24,7 +24,7 @@ const divisão = dividirDois(6);
 
 console.log(`Resultado da Soma: ${soma}\nResultado da Divisão: ${divisão}`);
 
-// O que fazer para total retornar 500?
+// O que fazer para total retornar 500? Obs: Erro corrigido por Igor Augusto
 const numero = 50;
 
 for (let numero = 1; numero <= 10; numero++) {
